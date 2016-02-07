@@ -1,0 +1,2 @@
+# lolcode
+Snippets of LOLCode
